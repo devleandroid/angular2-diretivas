@@ -34,8 +34,9 @@ export class HighlightMouseDirective {
 
   private backgroundcolor: string;
 
-  constructor(//private _elementRef: ElementRef,
-  			  //private _render: Renderer
+  constructor(
+  		//private _elementRef: ElementRef,
+  		//private _render: Renderer
   			  ) { }
 
 }
